@@ -105,6 +105,7 @@ public class Trader {
          */
         Trader trader1 = new Trader(all_items);
         Trader trader2 = new Trader(all_items);
+        Car toyota = new Car();
 
         System.out.println("Trader 1 details:\n" + trader1);
         System.out.println("Trader 2 details:\n" + trader2);
